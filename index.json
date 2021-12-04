@@ -1,0 +1,30 @@
+[
+  {
+    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Basics",
+    "uri": "/hugo-site/basics/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/hugo-site/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "My New Hugo Site",
+    "uri": "/hugo-site/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/hugo-site/tags/"
+  }
+]
